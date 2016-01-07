@@ -1,0 +1,10 @@
+c:\users\cameron\documents\visual studio 2015\Projects\TicTacToeBot\TicTacToeBot\bin\Debug\TicTacToeBot.exe.config
+c:\users\cameron\documents\visual studio 2015\Projects\TicTacToeBot\TicTacToeBot\bin\Debug\TicTacToeBot.exe
+c:\users\cameron\documents\visual studio 2015\Projects\TicTacToeBot\TicTacToeBot\bin\Debug\TicTacToeBot.pdb
+c:\users\cameron\documents\visual studio 2015\Projects\TicTacToeBot\TicTacToeBot\obj\Debug\TicTacToeBot.csprojResolveAssemblyReference.cache
+c:\users\cameron\documents\visual studio 2015\Projects\TicTacToeBot\TicTacToeBot\obj\Debug\TicTacToeBot.exe
+c:\users\cameron\documents\visual studio 2015\Projects\TicTacToeBot\TicTacToeBot\obj\Debug\TicTacToeBot.pdb
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\TicTacToeBot\TicTacToeBot\bin\Debug\TicTacToeBot.exe.manifest
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\TicTacToeBot\TicTacToeBot\bin\Debug\TicTacToeBot.application
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\TicTacToeBot\TicTacToeBot\obj\Debug\TicTacToeBot.exe.manifest
+C:\Users\Cameron\Documents\Visual Studio 2015\Projects\TicTacToeBot\TicTacToeBot\obj\Debug\TicTacToeBot.application
